@@ -7,7 +7,7 @@
 <title >
 8mh
 </title>
-<link rel="https://thumbs.dreamstime.com/b/infinity-symbol-metal-made-up-shiny-square-tubing-isolated-white-studio-background-d-render-172998676.jpg" href="favicon.jpg" />
+
 </head>
 <br>
 
